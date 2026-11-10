@@ -106,6 +106,7 @@ Yes. Cotlet.dev is a hosted MCP server that works in Meetup for you, 24/7, with 
 - [Meetup on Cotlet.dev](https://cotlet.dev/integrations/meetup-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=meetup&utm_content=find)
 - [PyPI package meetup-mcp](https://pypi.org/project/meetup-mcp/)
 - [Odel](https://odel.app/modules/cotlet/meetup)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/meetup/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-meetup-to-ai-agents-guide)
 
 ## Also works with
